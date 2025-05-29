@@ -67,7 +67,7 @@ By integrating **sentence-transformers** for semantic embeddings, **FAISS** for 
 
 ## 📚 How to Run
 
-1. Open `project1_game_lore_assistant.ipynb` in Google Colab.
+1. Open `Game_Lore_Assistant.ipynb` in Google Colab.
 2. Install required packages (done automatically).
 3. Load lore dataset (included in the notebook).
 4. Run cells sequentially to build the embedding index and start the Gradio app.
